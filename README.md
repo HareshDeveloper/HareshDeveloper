@@ -1,12 +1,10 @@
 # Hey there! 👋
 
-I'm Haresh , a Software Engineer Trainee passionate about crafting code and exploring the digital realm.
-
-🚀 **Currently:** Working as a Software Engineer Trainee.
+I'm Haresh , a Software Engineer passionate about crafting code and exploring the digital realm.
 
 🌱 **Learning:** Mastering Data Structures and Algorithms while diving deep into React with Redux.
 
-💼 **Skills:** Java, J2EE, Spring Boot, MySQL, MongoDB, HTML5, CSS, JavaScript.
+💼 **Skills:** Java, J2EE, Spring Boot,React js, MySQL, MongoDB, HTML5, CSS, JavaScript.
 
 🧠 **Level:** Intermediate in Data Structures and Algorithms.
 
