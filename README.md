@@ -6,8 +6,6 @@ I'm Haresh , a Software Engineer passionate about crafting code and exploring th
 
 💼 **Skills:** Java, J2EE, Spring Boot,React js, MySQL, MongoDB, HTML5, CSS, JavaScript.
 
-🧠 **Level:** Intermediate in Data Structures and Algorithms.
-
 📚 **Interests:** Crafting efficient code, solving algorithmic challenges, and building responsive web interfaces.
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/haresh-nagendramagesh)
