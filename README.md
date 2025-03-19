@@ -8,6 +8,4 @@ I'm Haresh , a Software Engineer passionate about crafting code and exploring th
 
 📚 **Interests:** Crafting efficient code, solving algorithmic challenges, and building responsive web interfaces.
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/haresh-nagendramagesh)
-
 Looking forward to collaborating and connecting with fellow developers and enthusiasts. Let's create some tech magic together! ✨
